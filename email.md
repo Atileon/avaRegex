@@ -1,6 +1,4 @@
-# RegEx Patterns Personal Collection
-
-## RegEx email
+# RegEx email
 
 ```js
 /^((?!\.)[a-z0-9-_.]*[^.])(@\w+)\.(\w{2,}[^.\W])$/gim;
